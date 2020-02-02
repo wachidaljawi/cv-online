@@ -75,12 +75,9 @@ p.lead {
     background-color: rgb(52, 52, 189);
 }
 
-.dev-icons {
-    font-size: 3rem;
-}
-
-.dev-icons .list-inline-item i:hover {
-    color: #BD5D38;
+.progress {
+    border-radius: 50px;
+    margin-bottom: 10px;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
